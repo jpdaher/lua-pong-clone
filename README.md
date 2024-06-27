@@ -9,3 +9,7 @@ A simple clone of the classic game pong made with "LÖVE", a Lua library.
 ## Controls
 - Use W or S to move the left pad up or down
 - Use the arrows to move the right pad up or down
+
+## File description
+- /src : directory that contains the Lua source code
+- license.txt : license for the LÖVE framework
