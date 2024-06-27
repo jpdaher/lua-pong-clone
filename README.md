@@ -1,5 +1,5 @@
 # lua-pong-clone
-A simple clone of the classic game pong made with "LÖVE", a Lua library.
+A simple clone of the classic game pong made with "LÖVE", a Lua framework.
 
 ## Installation guide
 1. Go to releases and download the .zip file on the latest release
